@@ -15,6 +15,8 @@ the center of the screen and create a floral effect.
 I like to work with pastel colors, hence the light shades of orange, purple and pink that I used. In order to make the colors of the flowers pop, 
 I made the background a light blue color. 
 
+video: https://drive.google.com/file/d/1er3NKh6jVc-V11WdGNpPIYJVDaXYhI8X/view?usp=sharing
+
 As the ellipses rotate, it starts to create flowers in different shapes. 
 
 <img width="797" alt="Screen Shot 2022-04-24 at 3 29 06 PM" src="https://user-images.githubusercontent.com/102966737/164974356-74b0429a-f853-4643-b5f1-0d0b09a9c907.png">
